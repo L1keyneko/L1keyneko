@@ -28,9 +28,9 @@ Likey → 偷懒的小猫咪。
 小猫咪什么都不知道，因为我只是一只小猫咪。
 
 * 游戏行业打工人
-* <img src="/pic/music.png" width="15px"/> 独立音乐人 | 网易云音乐<img src="/pic/netease-cloud-music-fill.png" width="15px"/> 签约 / 半成品的音乐人
-* <img src="/pic/graphic-design.png" width="15px"/> 平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧
-* <img src="/pic/badminton.png" width="15px"/> 羽毛球er | 长胖了十公斤，所以我现在杀球特别重（大概吧）
+* <img src="/pic/music.png" width="15px"/> 独立音乐人 | 网易云音乐<img src="/pic/netease-cloud-music-fill.png" width="15px"/> 签约中 / 写点流行和摇滚
+* <img src="/pic/graphic-design.png" width="15px"/> 平面设计爱好者 | 超会套模板(๑•̀ㅂ•́)و✧ / 我打ai，真的假的？
+* <img src="/pic/badminton.png" width="15px"/> 羽毛球er | 哥们，羽毛球真不减肥，我重十五斤了
 * <img src="/pic/game-ps.png" width="15px"/> Gamer | 星间之屑开拓者 / 风暴练度碾压刀客塔 / 心痛提瓦特之爷 / 养老舰长 / 无情日常绳匠 / 长期摆烂の音游人 / 无间修罗但双排
 
 
@@ -38,6 +38,7 @@ Likey → 偷懒的小猫咪。
 
 <p>
   <img src="https://img.shields.io/badge/-Python3-3676AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Erlang-A80C31?style=flat-square&logo=erlang&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-669CD3?style=flat-square&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Markdown-43443E?style=flat-square&logo=markdown&logoColor=white"/>
