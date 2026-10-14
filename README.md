@@ -73,11 +73,11 @@ No activity tracked
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=Lyrikp&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=L1keyneko&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
 </a>
   &emsp;&emsp;&emsp;&emsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrikp&theme=graywhite&layout=compact" />
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1keyneko&theme=graywhite&layout=compact" />
 </a>
 </p>
 
